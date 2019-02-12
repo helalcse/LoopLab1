@@ -47,6 +47,16 @@ body{
     }
 }
 
+#create-main-section{
+    .fa{
+        font-size:  $icon-font-size;
+        color: $primary-color;
+        background: #fff;
+        padding: 4px;
+        border-radius: 5px;
+    }
+}
+
 
 
 @media(max-width: 768px){
